@@ -7,8 +7,6 @@ import os
 
 # Creating app
 
-%%writefile app.py
-
 import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
