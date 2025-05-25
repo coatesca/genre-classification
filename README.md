@@ -17,6 +17,5 @@ By disregarding sample counts for each genre and focusing solely on accuracy sco
 - Notebook with all relevent code and detailed model processes
 - Dataset
 - Powerpoint presentation
-- Notebook with streamlit code 
-
-# Final Project Link
+- App
+- Requirements file
