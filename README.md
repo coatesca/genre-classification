@@ -19,3 +19,7 @@ By disregarding sample counts for each genre and focusing solely on accuracy sco
 - Powerpoint presentation
 - App
 - Requirements file
+
+# App URL
+
+genre-classification-9b448xtahkz7kqdebryoyf.streamlit.app
